@@ -1,4 +1,4 @@
-﻿namespace DependencyInjection.Data;
+﻿namespace DependencyInjectionDemo.Data;
 
 public class WeatherForecastService
 {

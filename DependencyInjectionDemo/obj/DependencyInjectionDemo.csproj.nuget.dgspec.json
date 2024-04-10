@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ana.atayde/Projects/DependencyInjectionApp/DependencyInjection/DependencyInjection.csproj": {}
+    "/Users/ana.atayde/Projects/DependencyInjectionDemoApp/DependencyInjectionDemo/DependencyInjectionDemo.csproj": {}
   },
   "projects": {
-    "/Users/ana.atayde/Projects/DependencyInjectionApp/DependencyInjection/DependencyInjection.csproj": {
+    "/Users/ana.atayde/Projects/DependencyInjectionDemoApp/DependencyInjectionDemo/DependencyInjectionDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ana.atayde/Projects/DependencyInjectionApp/DependencyInjection/DependencyInjection.csproj",
-        "projectName": "DependencyInjection",
-        "projectPath": "/Users/ana.atayde/Projects/DependencyInjectionApp/DependencyInjection/DependencyInjection.csproj",
+        "projectUniqueName": "/Users/ana.atayde/Projects/DependencyInjectionDemoApp/DependencyInjectionDemo/DependencyInjectionDemo.csproj",
+        "projectName": "DependencyInjectionDemo",
+        "projectPath": "/Users/ana.atayde/Projects/DependencyInjectionDemoApp/DependencyInjectionDemo/DependencyInjectionDemo.csproj",
         "packagesPath": "/Users/ana.atayde/.nuget/packages/",
-        "outputPath": "/Users/ana.atayde/Projects/DependencyInjectionApp/DependencyInjection/obj/",
+        "outputPath": "/Users/ana.atayde/Projects/DependencyInjectionDemoApp/DependencyInjectionDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ana.atayde/.nuget/NuGet/NuGet.Config"

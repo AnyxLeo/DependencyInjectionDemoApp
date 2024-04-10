@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using DependencyInjection.Data;
+using DependencyInjectionDemo.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
